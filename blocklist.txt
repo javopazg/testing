@@ -24,3 +24,4 @@ r7---sn-uqx2-aphy.googlevideo.com
 r7---sn-uqx2-aphz.googlevideo.com
 r8---sn-uqx2-aphz.googlevideo.com
 r8---sn-uqx2-aphy.googlevideo.com
+i.ytimg.com
